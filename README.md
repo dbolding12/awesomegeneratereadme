@@ -9,7 +9,7 @@ Github Site: https://github.com/dbolding12/awesomegeneratereadme
 
 Github Repo:dbolding12/awesomegeneratereadme
 
-![Video](Recording.mov)
+[![Watch the video](Develop/ReadME.png)](https://youtu.be/DGi2X8gFD1A)
 
 ![ReadME Sample](Develop/ReadME.png)
 
