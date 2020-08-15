@@ -4,9 +4,11 @@ was automatically generated. A video was recorded showing the steps and sample o
 Additionally, readMe are essential to a developer and a big topic of discussion on how to format. This
 assignment can implemented to our future projects and assignments. 
 
-![Github Site](https://github.com/dbolding12/awesomegeneratereadme)
+Github Site: https://github.com/dbolding12/awesomegeneratereadme
 
 Github Repo:dbolding12/awesomegeneratereadme
+
+![ReadME Sample](Develop/ReadME.png)
 
 # Unit 09 Node.js and ES6+ Homework: Good README Generator
 
