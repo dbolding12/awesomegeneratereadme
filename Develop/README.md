@@ -14,12 +14,12 @@
 ## Description
   In this project we had to collaborate to create project that meets requirements but displays the teams creativity.
   
-## installation 
+## Installation 
 ```bash
   npm init
 ```
   
-## contributors
+## Contributors
   Ashley Bolding, Zoe Bolding, Trey Bolding, Javier McCier
 
 ## Test
@@ -30,7 +30,7 @@
 ## Repository
   TJFitz/Impetus
 
-## usage
+## Usage
 ```bash
   nmp run usage
 ```

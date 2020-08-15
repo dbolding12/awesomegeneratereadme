@@ -2,11 +2,14 @@
 For this assignment we had to use inquirer to prompt a user with questions in node so a readMe file 
 was automatically generated. A video was recorded showing the steps and sample of the readME generated.
 Additionally, readMe are essential to a developer and a big topic of discussion on how to format. This
-assignment can implemented to our future projects and assignments. 
+assignment can implemented to our future projects and assignments. Review Develop folder for the code 
+created for this project.
 
 Github Site: https://github.com/dbolding12/awesomegeneratereadme
 
 Github Repo:dbolding12/awesomegeneratereadme
+
+![Video](Recording.mov)
 
 ![ReadME Sample](Develop/ReadME.png)
 
