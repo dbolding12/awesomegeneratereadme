@@ -9,9 +9,9 @@ Github Site: https://github.com/dbolding12/awesomegeneratereadme
 
 Github Repo:dbolding12/awesomegeneratereadme
 
+Click on Image for Video!
 [![Watch the video](Develop/ReadME.png)](https://youtu.be/DGi2X8gFD1A)
 
-![ReadME Sample](Develop/ReadME.png)
 
 # Unit 09 Node.js and ES6+ Homework: Good README Generator
 
